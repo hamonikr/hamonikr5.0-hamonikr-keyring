@@ -1,0 +1,11 @@
+hamonikr-keyring (2021.04.08) public; urgency=medium
+
+  * change release for HamoniKR 5.0
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 25 Feb 2021 15:46:44 +0900
+
+hamonikr-keyring (2020.10.13) jin; urgency=medium
+
+  * Updated keyring
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 25 Feb 2021 15:46:44 +0900
